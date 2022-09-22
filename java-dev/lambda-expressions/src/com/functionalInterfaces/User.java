@@ -3,7 +3,7 @@ package com.functionalInterfaces;
 public class User {
 	String name, role;
 
-	User(String a, String b) {
+	public User(String a, String b) {
 		name = a;
 		role = b;
 	}
